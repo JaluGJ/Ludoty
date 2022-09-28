@@ -37,3 +37,5 @@ next-env.d.ts
 
 # NOT NECESARY
 package-lock.json
+data
+pgadmin
